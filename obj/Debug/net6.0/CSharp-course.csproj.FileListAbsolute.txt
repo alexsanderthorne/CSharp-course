@@ -1,0 +1,15 @@
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/obj/Debug/net6.0/CSharp-course.csproj.AssemblyReference.cache
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/obj/Debug/net6.0/CSharp-course.GeneratedMSBuildEditorConfig.editorconfig
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/obj/Debug/net6.0/CSharp-course.AssemblyInfoInputs.cache
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/obj/Debug/net6.0/CSharp-course.AssemblyInfo.cs
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/obj/Debug/net6.0/CSharp-course.csproj.CoreCompileInputs.cache
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/bin/Debug/net6.0/CSharp-course
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/bin/Debug/net6.0/CSharp-course.deps.json
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/bin/Debug/net6.0/CSharp-course.runtimeconfig.json
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/bin/Debug/net6.0/CSharp-course.dll
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/bin/Debug/net6.0/ref/CSharp-course.dll
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/bin/Debug/net6.0/CSharp-course.pdb
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/obj/Debug/net6.0/CSharp-course.dll
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/obj/Debug/net6.0/ref/CSharp-course.dll
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/obj/Debug/net6.0/CSharp-course.pdb
+/home/studio/Área de Trabalho/Ness/courses/CSharp-course/obj/Debug/net6.0/CSharp-course.genruntimeconfig.cache
